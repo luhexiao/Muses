@@ -24,8 +24,8 @@
 
 <br>
 
-[![ArXiv](https://img.shields.io/badge/ArXiv-2601.00204-b31b1b.svg)](https://luhexiao.github.io/Muses.github.io/)
-[![Project Page](https://img.shields.io/badge/Project%20Page-MorphAny3D-Green.svg)](https://luhexiao.github.io/Muses.github.io/)
+[![ArXiv](https://img.shields.io/badge/ArXiv-...-b31b1b.svg)](https://luhexiao.github.io/Muses.github.io/)
+[![Project Page](https://img.shields.io/badge/Project%20Page-Muses-Green.svg)](https://luhexiao.github.io/Muses.github.io/)
 
 <br>
 <img src="assets/teaser.png" alt="Teaser" width="100%">
