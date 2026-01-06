@@ -28,7 +28,7 @@
 [![Project Page](https://img.shields.io/badge/Project%20Page-Muses-Green.svg)](https://luhexiao.github.io/Muses.github.io/)
 
 <br>
-<img src="assets/teaser.png" alt="Teaser" width="100%">
+<img src="assets/teaser.gif" alt="Teaser" width="100%">
 </div>
 
 ## 🚧 Code
