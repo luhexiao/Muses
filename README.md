@@ -24,7 +24,7 @@
 
 <br>
 
-[![ArXiv](https://img.shields.io/badge/ArXiv-2601.03256-b31b1b.svg)](https://luhexiao.github.io/Muses.github.io/)
+[![ArXiv](https://img.shields.io/badge/ArXiv-2601.03256-b31b1b.svg)](https://arxiv.org/abs/2601.03256)
 [![Project Page](https://img.shields.io/badge/Project%20Page-Muses-Green.svg)](https://luhexiao.github.io/Muses.github.io/)
 
 <br>
