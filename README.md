@@ -1,6 +1,6 @@
 <div align="center">
 
-# MorphAny3D: Unleashing the Power of Structured Latent in 3D Morphing
+# Muses: Designing, Composing, Generating Nonexistent Fantasy 3D Creatures without Training
 
 <div>
     <a href="https://github.com/luhexiao"><strong>Hexiao Lu</strong></a><sup>1,2*</sup>
@@ -35,12 +35,12 @@
 The code will be released after the paper is accepted.
 
 ## 📚 BibTeX
-<!-- ```bibtex
-@article{sun2026morphany3d,
-  title={MorphAny3D: Unleashing the Power of Structured Latent in 3D Morphing},
-  author={Sun, Xiaokun and Cai, Zeyu and and Tang, Hao and Tai, Ying and Yang, Jian and Zhang, Zhenyu},
-  journal={arXiv preprint arXiv:2601.00204},
+```bibtex
+@article{lu2026muses,
+  title={Muses: Designing, Composing, Generating Nonexistent Fantasy 3D Creatures without Training},
+  author={Lu, Hexiao, Sun, Xiaokun and Cai, Zeyu and Guo, Hao and Tai, Ying and Yang, Jian and Zhang, Zhenyu},
+  journal={arXiv preprint arXiv:2601.03256},
   year={2026}
 }
-``` -->
+```
 
